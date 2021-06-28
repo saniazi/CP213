@@ -22,13 +22,13 @@ Average words per line: 5.0
 Total words count: 5  
 Longest word is: purchased  
 Items purchased: 2  
-Dollars spend: $4.25  
-Average price of item: $2.13  <br>
-Line with largest word count is:  
-I purchased 2 items that cost $4.25  <br>
-Line with largest average word length is:  
-I purchased 2 items that cost $4.25  <br>
-List of longest words in each line is:  
+Dollars spent: $4.25  
+Average price of item: $2.13  
+<br>Line with largest word count is:  
+I purchased 2 items that cost $4.25  
+<br>Line with largest average word length is:  
+I purchased 2 items that cost $4.25  
+<br>List of longest words in each line is:  
 purchased  
 DONE  
 
@@ -46,13 +46,13 @@ Average words per line: 2.0
 Total words count: 5  
 Longest word is: large  
 Items purchased: 3  
-Dollars spend: $8.25  
-Average price of item: $2.75  <br>
-Line with largest word count is:  
-1 large fries costs $5.75  <br>
-Line with largest average word length is:  
-1 large fries costs $5.75  <br>
-List of longest words in each line is:  
+Dollars spent: $8.25  
+Average price of item: $2.75  
+<br>Line with largest word count is:  
+1 large fries costs $5.75  
+<br>Line with largest average word length is:  
+1 large fries costs $5.75  
+<br>List of longest words in each line is:  
 cans  
 large  
 DONE
