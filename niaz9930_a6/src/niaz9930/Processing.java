@@ -74,7 +74,7 @@ public class Processing {
 			}
 			else {
 			System.out.println("Items purchased: " + totalItems);
-			System.out.println("Dollars spend: $" + spent);
+			System.out.println("Dollars spent: $" + spent);
 			System.out.printf("Average price of item: $%.2f\n", averagePrice);
 			System.out.println("");
 			System.out.println("Line with largest word count is:");
