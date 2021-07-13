@@ -1,4 +1,4 @@
-This project processes multi-line text inputed by a user and collects statistics from the text. Statistics include:
+This project processes multi-line text inputted by a user and collects statistics from the text. Statistics include:
  * Number of lines given
  * Average words per line
  * Total number of alphabetic words 
